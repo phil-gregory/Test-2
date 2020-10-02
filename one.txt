@@ -1,1 +1,2 @@
 ﻿My git test file
+added a bit at the end
